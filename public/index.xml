@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>國立中正大學資訊工程學系 系學會</title>
+    <link>http://csasoc.csie.io/</link>
+    <description>Recent content on 國立中正大學資訊工程學系 系學會</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_TW</language>
+    <copyright>All rights reserved.</copyright>
+    
+	<atom:link href="http://csasoc.csie.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>留言</title>
+      <link>http://csasoc.csie.io/comment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://csasoc.csie.io/comment/</guid>
+      <description>留下你想說的吧～</description>
+    </item>
+    
+    <item>
+      <title>考古題</title>
+      <link>http://csasoc.csie.io/past-exam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://csasoc.csie.io/past-exam/</guid>
+      <description>考古題規劃/施工中，霸脫再幫我撐個十個月(X)左右就好了。</description>
+    </item>
+    
+    <item>
+      <title>致謝</title>
+      <link>http://csasoc.csie.io/credit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://csasoc.csie.io/credit/</guid>
+      <description> 感謝 hugo 提供一個快速的框架 感謝 casper 及其作者 Valere JEANTET 提供一個美美的主題 感謝 中正資工 讓這個網站有地方放 感謝 csie.io 提供潮到出水的subdomain 感謝 Disqus 提供免費的留言板 感謝 Wanwankao 提供首頁封面照片，你也可以在flickr上看到它  </description>
+    </item>
+    
+  </channel>
+</rss>
