@@ -1,0 +1,50 @@
+BaseUrl= "http://csasoc.csie.io/"
+LanguageCode= "zh_TW"
+Title= "國立中正大學資訊工程學系 系學會"
+paginate = 5
+DisqusShortname = "csasoc"
+Copyright = "All rights reserved."
+canonifyurls = true
+theme = "casper"
+
+[[menu.main]]
+name = "首頁"
+url = "/"
+weight = 100
+
+
+[params]
+  description = "CCU CSIE CSASOC"
+  coverphotographer = "Wanwankao"
+  coverphotographerLink = "https://www.instagram.com/wanwankao/"
+  ccu = "國立中正大學"
+  csasoc = "資訊工程學系 系學會"
+  #metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/cover.jpg"
+  author = "中正資工 系學會"
+  authorlocation = "Minxiong, Chiayi"
+  authorwebsite = "https://csasoc.csie.io"
+  authorbio= "CCU CSIE CSASOC"
+  # logo = "images/logo.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  # githubName = ""
+  # twitterName = "vjeantet"
+  facebookName = "CCUCSIE"
+  # codepenName = ""
+  # linkedinName = ""
+  # stackoverflowId = ""
+  # keybaseName = ""
+  # flickrName = ""
+  # instagramName = ""
+  email = "csasoc@cs.ccu.edu.tw"
+  # pinterestName = ""
+  # googlePlusName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
